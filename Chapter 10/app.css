@@ -1,0 +1,13 @@
+button {
+	padding: 15px 32px;
+	margin: 5px 5px;
+	background-color: #4CAF50;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+}
+
+button:hover {
+	background-color: #f44336;
+}

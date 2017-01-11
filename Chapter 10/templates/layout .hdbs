@@ -1,0 +1,12 @@
+<header>
+  <h3>SampleComp Features</h3>
+  
+  <div id="append_here"> </div>
+</header>
+
+
+
+<section data-main/>
+
+<button class="button" id="button1"> close_this</button>
+<button class="button" id="button2"> no_survey</button>
