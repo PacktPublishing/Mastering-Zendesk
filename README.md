@@ -18,9 +18,9 @@ https://{subdomain}.zendesk.com/api/v2/users.json \
 
 To use this book, you will need the following:
 
-Internet access
-Zendesk account
-Text editor
+* Internet access
+* Zendesk account
+* Text editor
 
 ##Related Products
 * [Building Web and Mobile ArcGIS Server Applications with JavaScript](https://www.packtpub.com/application-development/building-web-and-mobile-arcgis-server-applications-javascript?utm_source=github&utm_medium=repository&utm_campaign=9781849697965)
